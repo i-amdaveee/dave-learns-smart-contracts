@@ -35,3 +35,5 @@ contract SimpleStorage{
 //to create a contract write"contract and give a name
 
 //0xd9145CCE52D386f254917e481eB44e9943F39138
+
+//pushed this to github :)
